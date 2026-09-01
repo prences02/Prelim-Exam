@@ -14,39 +14,33 @@ Azure's global infrastructure allows organizations to deploy applications close 
 
 The **Azure Portal** is the web-based management interface for Microsoft Azure. It allows administrators and developers to create, configure, monitor, and manage Azure resources.
 
-**Screenshot Evidence:**
 
 
+# Four Core Services
 
-Example:
-
-`![Microsoft Azure Portal](screenshots/azure-portal.png)`
-
-## Four Core Services
-
-### 1. Azure Virtual Machines
+# 1. Azure Virtual Machines
 
 Azure Virtual Machines provide scalable virtual servers that can run Windows or Linux operating systems. They can be used to host applications, websites, databases, and enterprise workloads.
 
-### 2. Azure Blob Storage
+# 2. Azure Blob Storage
 
 Azure Blob Storage is Microsoft's object storage service. It is designed to store large amounts of an unstructured data such as documents, images, videos, backups, and application data. 
 
-### 3. Azure Virtual Network
+# 3. Azure Virtual Network
 
 Azure Virtual Network provides private networking capabilities for Azure resources. It allows the organizations to configure subnets, IP addresses, routing, and network security.
 
-### 4. Microsoft Entra ID
+# 4. Microsoft Entra ID
 
 Microsoft Entra ID is Microsoft's cloud-based identity and access management service. It helps  the organizations manage users, applications, authentication, and access to cloud resources.
 
-## Three Advantages
+# Three Advantages
 
 1. **Microsoft integration** – Azure works closely with Microsoft technologies such as Windows Server, Microsoft 365, Active Directory, and any other enterprise products.
 2. **Enterprise capabilities** – Azure provides services designed for large organizations, including a security, identity, compliance, databases, and hybrid-cloud solutions.
 3. **Hybrid cloud support** – Azure provides tools that allow organizations to integrate on-premises the infrastructure with cloud services.
 
-## Typical Enterprise Use Cases
+# Typical Enterprise Use Cases
 
 Azure is commonly used for:
 
@@ -60,7 +54,7 @@ Azure is commonly used for:
   Data analytics
   Application development
 
-## Sources
+# Sources
 
   Microsoft Azure Official Website: https://azure.microsoft.com/
   Azure Global Infrastructure: https://azure.microsoft.com/explore/global-infrastructure/
